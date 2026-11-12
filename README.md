@@ -116,7 +116,7 @@ The following screenshots show the results of the 10 required API tests.
 
 ### 3. Unauthenticated GET Books – 401 Unauthorized
 
-![Unauthenticated GET Books](mage-2.png)
+![Unauthenticated GET Books](image-2.png)
 
 ### 4. Authenticated GET Books – 200 OK
 

@@ -140,7 +140,7 @@ The following screenshots show the results of the 10 required API tests.
 
 ### 9. Update Book – 200 OK
 
-![Update Book](mage-8.png)
+![Update Book](image-8.png)
 
 ### 10. Delete Book – 204 No Content
 
